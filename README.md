@@ -12,7 +12,7 @@ A MicroPython web application for Raspberry Pi Pico that reads environmental sen
 
 ## Hardware Requirements
 
-- Raspberry Pi Pico
+- Raspberry Pi Pico WiFi
 - BME280 environmental sensor (I2C connection)
 - DHT11 temperature/humidity sensor (GPIO connection)
 - Breadboard and jumper wires
