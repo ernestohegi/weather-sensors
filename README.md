@@ -2,6 +2,8 @@
 
 A MicroPython web application for Raspberry Pi Pico that reads environmental sensor data and provides a very simple web dashboard interface.
 
+![20250714_094116](https://github.com/user-attachments/assets/38911c7d-6cdd-45a4-8b94-3cf23408537b)
+
 ## Features
 
 - Reads temperature, humidity and pressure from BME280 sensor (I2C)
