@@ -1,6 +1,6 @@
 # Weather Sensors Web Dashboard
 
-A MicroPython web application for Raspberry Pi Pico that reads environmental sensor data and provides a very simple web dashboard interface.
+A MicroPython web application for Raspberry Pi Pico that reads environmental sensor data from DHT11 and BME280 sensors and provides a very simple web dashboard interface.
 
 ![20250714_094116](https://github.com/user-attachments/assets/38911c7d-6cdd-45a4-8b94-3cf23408537b)
 
